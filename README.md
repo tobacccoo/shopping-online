@@ -1,6 +1,5 @@
-# E-Commerce Website
-
-A Ecommerce Website made with React.js Framework.
+A Shooping Website with cart functionality
+Made with React.js Framework.
 
 ## Tech Stack
 
